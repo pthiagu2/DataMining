@@ -1,0 +1,48 @@
+% File Generated: 02-Feb-2012 01:27:31
+% Dataset Collection: Colonial Era Weather Archive
+% Type: TMAX - Monthly
+% Version: LATEST
+% Dataset Hash: d4007075d4018cc53e3edc08ca9a3e6a
+% 
+% ------------------------------------
+% 
+% This file is a plain text export of a portion of the temperature data contained 
+% in Berkeley Earth Surface Temperature Analysis.
+% 
+% The associated dataset name is shown above, while this file should have the 
+% name
+% 
+% 	site_flag_definitions.txt
+% 
+% For general information about this data product, please refer to the data set 
+% readme file: README.txt
+% 
+% The current file contains descriptions of the per site quality control and 
+% metadata flags.  The main temperature data, other secondary data, and related 
+% station metadata can be found in other files in the same directory and should 
+% be distributed together.
+% 
+% The columns contained in this file are as follows:
+% 
+% Flag ID: A unique integer identifying each source archive.
+% 
+% 	Flag Description: A text description of the meaning of the flag.
+% 
+% The site information may be found in files of the form
+% 
+% 	site_detail.txt
+% 	site_complete_detail.txt
+% 
+% Only site flags actually in use in this dataset will appear below.  Site flag 
+% values should remain stable over time and retain the same meaning for all 
+% Berkeley temperature datasets.  If no content appears below, it is because no 
+% data flags are used in this dataset.
+% 
+% 
+% ------------------------------------
+% Flag Code, Flag Description
+% 
+     3:	Conflicting locations from different sources
+     7:	Multiple names associated with this site
+    11:	Site has no country identification
+    29:	No location data

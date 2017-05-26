@@ -1,0 +1,62 @@
+% File Generated: 02-Feb-2012 01:27:31
+% Dataset Collection: Colonial Era Weather Archive
+% Type: TMAX - Monthly
+% Version: LATEST
+% Dataset Hash: d4007075d4018cc53e3edc08ca9a3e6a
+% 
+% ------------------------------------
+% 
+% This file is a plain text export of a portion of the temperature data contained 
+% in Berkeley Earth Surface Temperature Analysis.
+% 
+% The associated dataset name is shown above, while this file should have the 
+% name
+% 
+% 	station_change.txt
+% 
+% For general information about this data product, please refer to the data set 
+% readme file: README.txt
+% 
+% The current file contains some information on when temperature stations are 
+% known or suspected to have changed.  Currently, the only type of change 
+% recorded here is changes in station location. The main temperature data, other 
+% secondary data, and station metadata can be found in other files in the same 
+% directory and should be distributed together.
+% 
+% The columns contained in this file are as follows:
+% 
+% 	Station ID: A unique integer identifying each station.  Metadata for the site 
+% is contained in the associated files labeled "site_summary" or "site_detail".
+% 
+% 	Change Event Number: An integer indexing the change events at each station.
+% 
+% 	Change Date: The approximate date at which the change occurred expressed as 
+% the year and decimal fraction of a year.
+% 
+% 	Change Type: An integer specifying the type of change that occurred (or may 
+% have occurred).  Currently, the following values are allowed:
+% 
+% 		1) An explicitly declared station move.  (Nearly all of these originate from 
+% US stations.)
+% 
+% 		2) A suspected change in station location, based on the report of a new 
+% station location that is inconsistent with prior location reports given the 
+% precision of the prior and new report.
+% 
+% The station changes reported here are currently based exclusively on the 
+% metadata.  In the future, we may expand this file to document suspected changes 
+% based on the data as well.
+% 
+% It is important to note that the "change date" is based on when the change was 
+% recorded in the metadata.  It is not uncommon for such changes to be recorded 
+% months or even years after the change was actually executed.  In addition, some 
+% apparent changes in metadata may reflect corrections to the metadata that 
+% occurred without any true change in the instrumentation.  It has been estimated 
+% by NOAA that only about 50% of historical station moves in the United States 
+% have been explicitly documented.  It is likely that the documentation rate for 
+% moves in other countries is even lower.
+% 
+% 
+% ------------------------------------
+% Station ID, Change Event Number, Change Date, Change Type
+% 

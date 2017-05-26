@@ -1,0 +1,40 @@
+% File Generated: 02-Feb-2012 01:27:30
+% Dataset Collection: Colonial Era Weather Archive
+% Type: TMAX - Monthly
+% Version: LATEST
+% Dataset Hash: d4007075d4018cc53e3edc08ca9a3e6a
+% 
+% ------------------------------------
+% 
+% This file is a plain text export of a portion of the temperature data contained 
+% in Berkeley Earth Surface Temperature Analysis.
+% 
+% The associated dataset name is shown above, while this file should have the 
+% name
+% 
+% 	source_flag_definitions.txt
+% 
+% For general information about this data product, please refer to the data set 
+% readme file: README.txt
+% 
+% The current file contains descriptions of the per datum source codes.  The main 
+% temperature data, other secondary data, and station metadata can be found in 
+% other files in the same directory and should be distributed together.
+% 
+% The columns contained in this file are as follows:
+% 
+% 	Flag ID: A unique integer identifying each source archive.
+% 
+% 	Flag Description: A text description of the source.
+% 
+% The source associations with data may be found in the file "sources.txt"
+% 
+% Only source codes actually in use in this dataset will appear below.  Source 
+% code values should remain stable over time and retain the same meaning for all 
+% Berkeley temperature datasets.
+% 
+% 
+% ------------------------------------
+% Flag Code, Flag Description
+% 
+    77:	Colonial Archive

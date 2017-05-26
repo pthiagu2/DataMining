@@ -1,0 +1,47 @@
+% File Generated: 02-Feb-2012 01:27:30
+% Dataset Collection: Colonial Era Weather Archive
+% Type: TMAX - Monthly
+% Version: LATEST
+% Dataset Hash: d4007075d4018cc53e3edc08ca9a3e6a
+% 
+% ------------------------------------
+% 
+% This file is a plain text export of a portion of the temperature data contained 
+% in Berkeley Earth Surface Temperature Analysis.
+% 
+% The associated dataset name is shown above, while this file should have the 
+% name
+% 
+% 	data_flag_definitions.txt
+% 
+% For general information about this data product, please refer to the associated 
+% readme file: README.txt
+% 
+% The current file contains descriptions of the per datum flag codes.  These 
+% flags are used as indicators of how the data has been processed and any quality 
+% control issues that are known to be present.  Users of this dataset are advised 
+% to review the flags as a means of identifying problematic data which they may 
+% choose to eliminate before performing an analysis.  The main temperature data, 
+% other secondary data, and station metadata can be found in other files in the 
+% same directory and should be distributed together.
+% 
+% The columns contained in this file are as follows:
+% 
+% 	Flag ID: A unique integer identifying each datum flag.
+% 
+% 	Flag Description: A text description of the meaning of the flag.
+% 
+% The flag associations with data may be found in files named
+% 
+% 	flags.txt
+% 
+% Only quality control flags actually in use in this dataset will appear below.  
+% Flag values should remain stable over time and retain the same meaning for all 
+% Berkeley temperature datasets.  If no content appears below, it is because no 
+% data flags are used in this dataset.
+% 
+% 
+% ------------------------------------
+% Flag Code, Flag Description
+% 
+   160:	Original data was C, tenths of degree
